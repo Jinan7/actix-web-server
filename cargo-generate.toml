@@ -7,3 +7,4 @@ ignore = [
     "ignore_me.txt",
     "target/"
 ]
+exclude = ["scripts/init_redis.sh"]
