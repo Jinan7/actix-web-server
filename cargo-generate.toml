@@ -1,0 +1,9 @@
+[placeholders]
+port = { prompt = "listen on port", default = "8000", type = "string" }
+db_name = { prompt = "database name", type = "string" }
+
+[template]
+ignore = [
+    "ignore_me.txt",
+    "target/"
+]
