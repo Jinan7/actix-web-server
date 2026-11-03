@@ -1,6 +1,6 @@
 <h1>Cargo generate template for creating rust actix-web server skeleton project</h1>
 <p>Generates a simple rust actix-web server with health check route</p>
-<h2>File Structure</h2>
+<h2>Skeleton</h2>
 <ul>
   <li>
     <div>
