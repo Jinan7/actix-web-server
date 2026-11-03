@@ -45,7 +45,7 @@
   <li>Cargo.lock</li>
   <li>Cargo.toml</li>
 </ul>
-<h2>Usage:</h2>
+<h2>Usage</h2>
 <p><code>cargo generate --git https://github.com/Jinan7/actix-web-server --name {server_name}</code></p>
 <p>Enter port you want server to listen on when prompted</p>
 <p><code>listen on port: {server_port}</code></p>
